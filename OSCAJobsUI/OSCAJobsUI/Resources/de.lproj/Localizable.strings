@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  OSCAJobsUI
+
+  Created by Ömer Kurutay on 03.02.22.
+  
+*/
+
+// MARK: Jobs
+
+// The screen title for jobs
+"jobs_title" = "Stellenportal";
+// The alert title for an error
+"jobs_alert_title_error" = "Fehler";
+// The alert action title to confirm
+"jobs_alert_title_confirm" = "OK";
+// Searchbar placeholder
+"jobs_search_placeholder" = "Suchen";
